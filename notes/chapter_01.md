@@ -1,6 +1,5 @@
 # Getting Started with C
 
-
 ## Portability issues enumerated in Annex J of the C Standard documents
 
 ### Implementation-Defined Behavior
